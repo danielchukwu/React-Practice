@@ -1,0 +1,16 @@
+{
+   "blogs": [
+      {
+         "title": "My First Blog",
+         "body": "Why do we use it?\nIt is a long established fact Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quasi, quae error ex eum modi ad sit! Quidem corporis aperiam sunt saepe, quas culpa eveniet in eos qui natus sequi doloremque fugit sit numquam vel nisi consequatur ut voluptatem assumenda? Sapiente dolorum officiis illum hic accusantium facere iste, eveniet tempore.",
+         "author": "mario",
+         "id": 1
+      },
+      {
+         "title": "Opening Party!",
+         "body": "Why do we use it?\nIt is a long established fact Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quasi, quae error ex eum modi ad sit! Quidem corporis aperiam sunt saepe, quas culpa eveniet in eos qui natus sequi doloremque fugit sit numquam vel nisi consequatur ut voluptatem assumenda? Sapiente dolorum officiis illum hic accusantium facere iste, eveniet tempore.",
+         "author": "yoshi",
+         "id": 2
+      }
+   ]
+}
